@@ -1,1 +1,1 @@
-echo "Building Jenkins Pipeline with Jenkinsfile on Github"
+echo 'Building Jenkins Pipeline with Jenkinsfile on Github'
